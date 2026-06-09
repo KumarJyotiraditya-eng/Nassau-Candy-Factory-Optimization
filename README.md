@@ -162,7 +162,16 @@ Recommendations generated:
 
 ## 📸 Dashboard Screenshots
 
-Add your dashboard screenshots inside the Screenshots folder and update image paths in GitHub.
+A<img width="593" height="335" alt="Screenshot 2026-06-09 174013" src="https://github.com/user-attachments/assets/de006053-d071-4178-8c9e-b96b9dd8a098" />
+<img width="593" height="338" alt="Screenshot 2026-06-09 174207" src="https://github.com/user-attachments/assets/406f8d17-e8f0-42af-8375-0f47e316f13d" />
+<img width="595" height="332" alt="Screenshot 2026-06-09 174251" src="https://github.com/user-attachments/assets/f3afc1f9-67c5-49c3-8a57-91ec1203a451" />
+<img width="595" height="334" alt="Screenshot 2026-06-09 174321" src="https://github.com/user-attachments/assets/d50d391f-0547-449d-aed6-22f2370da45b" />
+<img width="593" height="335" alt="Screenshot 2026-06-09 174353" src="https://github.com/user-attachments/assets/e8f8309f-dad9-40a7-8a80-4e9a4c476bb0" />
+
+
+
+
+
 
 \---
 
